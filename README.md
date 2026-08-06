@@ -1,2 +1,2 @@
 # website-b-n-n-ng-s-n
-website bán nông sản code theo mô hình mvc
+website bán nông sản xây dựng dựa theo mô hình mvc

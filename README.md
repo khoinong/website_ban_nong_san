@@ -86,9 +86,3 @@ Ghi chú:
 - Kiểm tra cấu hình DB trong config/config.php, đảm bảo kết nối thành công.
 - Với môi trường production, tắt hiển thị lỗi PHP và bật caching phù hợp.
 
----
-
-Nếu bạn muốn, tôi có thể:
-- 1) Commit README.md này trực tiếp vào nhánh main của repo (y/n), hoặc
-- 2) Tùy chỉnh nội dung (thêm hướng dẫn chi tiết hơn về cấu trúc thư mục, script cài đặt, ví dụ .env, các lệnh migration) theo yêu cầu của bạn.
-

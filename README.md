@@ -82,10 +82,6 @@ Luồng xử lý cơ bản:
 8. View render ra giao diện HTML
 
 ## Installation
-Yêu cầu cơ bản:
-- PHP >= 7.2 (hoặc phiên bản bạn đã phát triển)
-- MySQL / MariaDB
-- Composer (nếu dùng thư viện)
 - git clone https://github.com/khoinong/website_ban_nong_san.git
 ### Yêu cầu
 - PHP 7.4+

@@ -88,6 +88,7 @@ Yêu cầu cơ bản:
 - Composer (nếu dùng thư viện)
 
 Cài đặt:
+git clone https://github.com/khoinong/website_ban_nong_san.git
 ### Yêu cầu
 - PHP 7.4+
 - Apache hoặc XAMPP/WAMP

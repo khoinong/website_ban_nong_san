@@ -43,9 +43,9 @@ vegetablestore/
     ├── admin/                   # CSS/JS/Admin assets
     └── user/                    # CSS/JS/User assets
 ```
-## 4. Cấu trúc core của hệ thống
+## Cấu trúc core của hệ thống
 
-### 4.1 App.php
+### App.php
 File App.php là router chính của ứng dụng.
 
 Chức năng:
@@ -55,7 +55,7 @@ Chức năng:
 - Truyền tham số cho action
 - Gọi phương thức tương ứng
 
-### 4.2 Controller.php
+### Controller.php
 File này định nghĩa lớp Controller cha.
 
 Chức năng:
@@ -63,7 +63,7 @@ Chức năng:
 - Nạp view: viewuser("template", $data)
 - Nạp view admin: viewadmin("template", $data)
 
-### 4.3 DB.php
+### DB.php
 File DB.php đảm nhiệm việc kết nối database theo PDO.
 
 Thông tin kết nối cơ bản:
